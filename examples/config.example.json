@@ -1,0 +1,5 @@
+{
+  "_comment": "Sample config.json — DO NOT commit a real one. The 'feishu-vault config' command will create this for you.",
+  "app_id": "cli_xxxxxxxxxxxxxxxx",
+  "app_secret": "your_32_char_app_secret_here"
+}

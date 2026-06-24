@@ -1,0 +1,83 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.cache
+coverage.xml
+*.cover
+.hypothesis/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local secrets and runtime data (NEVER commit)
+config.json
+token.json
+*.db
+*.db-journal
+audit.log
+archive/
+attachments/
+
+# Local data dir
+data/
+examples/data/
+
+# OS
+.DS_Store
+desktop.ini
+
+# Logs
+*.log
+
+# mypy / linter
+.mypy_cache/
+.ruff_cache/
+.dmypy.json
+dmypy.json.hermes-tmp.*
+*.hermes-tmp
+
+# Python build artifacts (redundant with earlier rules but explicit)
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Hermes write_file temp files
+.hermes-tmp.*
+*.hermes-tmp

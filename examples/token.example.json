@@ -1,0 +1,8 @@
+{
+  "_comment": "Sample token.json — DO NOT commit a real one. Saved by `feishu-vault login`.",
+  "access_token": "REDACTED",
+  "token_type": "Bearer",
+  "scope": "im:message:readonly im:message.group_at_msg:readonly contact:user.base:readonly",
+  "issued_at": 1719188400,
+  "expires_at": 1719274800
+}

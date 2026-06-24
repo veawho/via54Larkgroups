@@ -1,0 +1,8 @@
+# Runtime dependencies
+# This project uses ONLY the Python standard library.
+# No third-party packages are required at runtime.
+#
+# Python 3.11+ is required (uses tomllib, datetime.UTC, etc.)
+
+# Development dependencies (install with `pip install -r requirements-dev.txt`)
+# Or use: `pip install -e .[dev]`
