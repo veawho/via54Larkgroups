@@ -33,6 +33,19 @@ It is designed for **personal archival** — like a private Notion vault of your
 
 ---
 
+
+## 🔗 集成 (v1.1.0 新增)
+
+via54Larkgroups v1.1.0 跟踪 3 个高星聊天归档项目, 计划扩展到多平台 (Slack/Discord/Telegram):
+
+- [KnugiHK/WhatsApp-Chat-Exporter](https://github.com/KnugiHK/WhatsApp-Chat-Exporter) (1.1K) - Cross-platform WhatsApp chat databases
+- [knadh/tg-archive](https://github.com/knadh/tg-archive) (1.1K) - Telegram group chats -> static websites
+- [mahtoid/DiscordChatExporterPy](https://github.com/mahtoid/DiscordChatExporterPy) (283) - Discord channel chats to HTML
+
+详见 [integrations/README.md](integrations/README.md) 和 [REFERENCES.md](REFERENCES.md).
+
+---
+
 ## Quick Start
 
 ### 1. Install (from source, requires Python 3.11+)

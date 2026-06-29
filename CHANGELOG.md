@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+
+
+## [1.1.0] - 2026-06-29
+
+- Add integrations/ for WhatsApp-Chat-Exporter, tg-archive, DiscordChatExporter. Plan multi-platform support.
+## [1.0] - 2026-06-29
+
+- Add architecture-comparison.md (vs WhatsApp-Chat-Exporter 1.1K, tg-archive 1.1K)
+- Plan: static website output inspired by tg-archive
+
 ## [0.2.0] - 2026-06-24
 
 ### Changed

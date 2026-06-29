@@ -33,6 +33,19 @@
 
 ---
 
+
+## Top 高星项目 (2026-06-29 audit, by stars)
+
+| Project | ★ Stars | 描述 | Link |
+|---------|---------|------|------|
+| KnugiHK/WhatsApp-Chat-Exporter | 1,128 | Cross-platform WhatsApp chat databases | [GitHub](https://github.com/KnugiHK/WhatsApp-Chat-Exporter) |
+| knadh/tg-archive | 1,154 | Telegram group chats -> static websites | [GitHub](https://github.com/knadh/tg-archive) |
+| mahtoid/DiscordChatExporterPy | 283 | Discord channel chats to HTML | [GitHub](https://github.com/mahtoid/DiscordChatExporterPy) |
+
+_Inspired by these projects, see CHANGELOG for integration plans._
+
+---
+
 ## English
 
 This project is part of the via54 series. Explore the via54 ecosystem:
