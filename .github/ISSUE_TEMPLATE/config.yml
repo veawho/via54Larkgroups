@@ -1,0 +1,6 @@
+# GitHub Issue templates config
+blank_issues_enabled: true
+contact_links:
+  - name: via54 仓库主页
+    url: https://github.com/veawho
+    about: via54 系列所有项目
