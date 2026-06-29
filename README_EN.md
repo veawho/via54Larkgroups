@@ -1,5 +1,9 @@
 # via54Larkgroups
 
+
+> **🌐 Language**: [🇨🇳 中文](./README.md) | [🇺🇸 English](#) (current)
+>
+> _This document is in English. For Chinese, click above._
 > Local-only Feishu (Lark) chat archive tool - pull daily chats, export Markdown + raw files
 
 [![License: AGPL-3.0](https://img.shields.io/badge/License-AGPL--3.0-blue.svg)](LICENSE)
